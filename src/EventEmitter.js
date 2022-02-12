@@ -1,4 +1,4 @@
-import { listeners } from "process";
+// import { listeners } from "process";
 
 export class EventEmitter {
     constructor() {
